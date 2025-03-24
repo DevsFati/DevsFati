@@ -13,7 +13,7 @@
 - 💼 I'm doing a **DevOps Bootcamp internship at Stemdo**.
 - 🖥️ I also worked as a **private tutor** in computer science (Java, SQL, Excel, JavaScript).
 - 🌱 I'm learning more about **DevOps tools, software engineering**, and **mobile app development**.
-- 📫 Reach me at **fatmortcha@gmail.com**
+- 📫 Reach me at **fmortahil@stemdo.io**
 - 🔗 Check out my [LinkedIn](https://www.linkedin.com/in/fatima-94ab07278) and [GitHub](https://github.com/DevFati)
 
 ---
