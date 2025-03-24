@@ -11,7 +11,7 @@
 
 - 🎓 I'm currently studying a **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** at I.E.S. Ribera del Tajo *(2023 - 2025)*.
 - 💼 I'm doing a **DevOps Bootcamp internship at Stemdo**.
-- 🖥️ I also work as a **private tutor** in computer science (Java, SQL, Excel, JavaScript).
+- 🖥️ I also worked as a **private tutor** in computer science (Java, SQL, Excel, JavaScript).
 - 🌱 I'm learning more about **DevOps tools, software engineering**, and **mobile app development**.
 - 📫 Reach me at **fatmortcha@gmail.com**
 - 🔗 Check out my [LinkedIn](https://www.linkedin.com/in/fatima-94ab07278) and [GitHub](https://github.com/DevFati)
