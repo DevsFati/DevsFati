@@ -58,7 +58,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevsFati&show_icons=true&theme=tokyonight" alt="DevsFati's GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFati&layout=compact&theme=tokyonight" alt="DevFati's Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevsFati&layout=compact&theme=tokyonight" alt="DevsFati's Top Languages" height="200"/>
 </p>
 
 ---
