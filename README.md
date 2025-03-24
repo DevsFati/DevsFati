@@ -9,7 +9,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"> </picture>
 
-- 🎓 I'm currently studying a **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** at I.E.S. Ribera del Tajo *(2023 - 2025)*.
+- 🎓 I'm currently studying a **Vocational Degree in Multiplatform App Development** at I.E.S. Ribera del Tajo *(2023 - 2025)*.
 - 💼 I'm doing a **DevOps Bootcamp internship at Stemdo**.
 - 🖥️ I also worked as a **private tutor** in computer science (Java, SQL, Excel, JavaScript).
 - 🌱 I'm learning more about **DevOps tools, software engineering**, and **mobile app development**.
