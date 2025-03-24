@@ -14,7 +14,7 @@
 - 🖥️ I also worked as a **private tutor** in computer science (Java, SQL, Excel, JavaScript).
 - 🌱 I'm learning more about **DevOps tools, software engineering**, and **mobile app development**.
 - 📫 Reach me at **fmortahil@stemdo.io**
-- 🔗 Check out my [LinkedIn](https://www.linkedin.com/in/fatima-94ab07278) and [GitHub](https://github.com/DevFati)
+- 🔗 Check out my [LinkedIn](https://www.linkedin.com/in/fatima-94ab07278)
 
 ---
 
@@ -57,7 +57,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevFati&show_icons=true&theme=tokyonight" alt="DevFati's GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevsFati&show_icons=true&theme=tokyonight" alt="DevsFati's GitHub Stats" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFati&layout=compact&theme=tokyonight" alt="DevFati's Top Languages" height="200"/>
 </p>
 
